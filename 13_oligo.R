@@ -42,3 +42,4 @@ oligo::boxplot(rawData, target="core")
 normData <- rma(rawData)
 normData
 boxplot(normData)
+normData$gro

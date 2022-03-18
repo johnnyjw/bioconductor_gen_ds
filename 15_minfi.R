@@ -40,7 +40,7 @@ rgSet
 
 # normalise data
 grSet = preprocessQuantile(rgSet)
-# genomic ranges set
+# genomic ratio set
 grSet
 
 granges(grSet)
